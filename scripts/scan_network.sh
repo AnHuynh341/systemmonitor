@@ -53,7 +53,7 @@ fi
 
 TMP_SCAN="/tmp/devices_now"
 
-arp-scan --localnet 2>/dev/null | awk '/^[0-9]/ {print $1,$2,$3,$4,$5}' | sort > "$TMP_SCAN"
+sudo arp-scan --localnet 2>/dev/null | awk '/^[0-9]/ {print $1,$2,$3,$4,$5}' | sort > "$TMP_SCAN"
 
 if [ ! -f "$DEVICES_LAST" ]; then
     cp "$TMP_SCAN" "$DEVICES_LAST"

@@ -33,7 +33,7 @@ sudo arp-scan --localnet 2>/dev/null | awk '/^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/ {p
 echo "" >> "$LOGFILE"
 echo "Events this hour:" >> "$LOGFILE"
 
-cat "$STATE_DIR/network_events.log" >> "$LOGFILE"
+cat "$STATE_DIR/net_event.log" >> "$LOGFILE"
 
 echo "" >> "$LOGFILE"
 echo "Average latency:" >> "$LOGFILE"
