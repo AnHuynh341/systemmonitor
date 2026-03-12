@@ -56,5 +56,5 @@ echo "" >> "$LOGFILE"
 # CLEAR HOURLY BUFFERS
 ################################
 
-> "$STATE_DIR/network_events.log"
-> "$STATE_DIR/ping_history.log"
+> "$STATE_DIR/net_event.log"
+> "$STATE_DIR/ping.log"

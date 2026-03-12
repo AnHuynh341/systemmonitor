@@ -818,3 +818,123 @@ Feels like: C
 Humidity: %
 Condition: 
 
+--------------------------------------------------
+Time: 2026-03-12 13:00
+
+SYSTEM
+CPU: 8%
+CPU Temp: +74.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 16 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.4 00:2a:2a:7e:49:d8 (Unknown)  
+192.168.1.5 00:2a:2a:56:e4:84 (Unknown)  
+192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+192.168.1.7 a6:d3:d1:ee:28:02 (Unknown: locally administered)
+
+Events this hour:
+2026-03-12 01:14:02 Internet RESTORED
+2026-03-12 10:19:39 Device connected: 192.168.1.1 0c:01:4b:18:9f:12 (Unknown)
+2026-03-12 10:19:39 Device connected: 192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+2026-03-12 10:19:39 Device connected: 2 packets received by filter,
+2026-03-12 12:39:06 Device connected: 192.168.1.10 d2:a9:7b:50:83:c3 (Unknown: locally administered)
+2026-03-12 12:39:06 Device connected: 192.168.1.4 00:2a:2a:7e:49:d8 (Unknown)
+2026-03-12 12:39:06 Device connected: 192.168.1.5 00:2a:2a:56:e4:84 (Unknown)
+2026-03-12 12:39:06 Device connected: 192.168.1.7 a6:d3:d1:ee:28:02 (Unknown: locally administered)
+2026-03-12 12:39:06 Device connected: 192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+2026-03-12 12:39:06 Device connected: 7 packets received by filter,
+2026-03-12 12:39:06 Device disconnected: 2 packets received by filter,
+2026-03-12 12:43:45 Device connected: 6 packets received by filter,
+2026-03-12 12:43:45 Device disconnected: 192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+2026-03-12 12:43:45 Device disconnected: 7 packets received by filter,
+2026-03-12 12:45:00 Device connected: 192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+2026-03-12 12:45:00 Device disconnected: 192.168.1.10 d2:a9:7b:50:83:c3 (Unknown: locally administered)
+2026-03-12 12:50:00 Device connected: 5 packets received by filter,
+2026-03-12 12:50:00 Device disconnected: 192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+2026-03-12 12:50:00 Device disconnected: 6 packets received by filter,
+2026-03-12 13:00:00 Device connected: 192.168.1.1 0c:01:4b:18:9f:12 (Unknown) (DUP: 2)
+2026-03-12 13:00:00 Device connected: 192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+2026-03-12 13:00:00 Device connected: 192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+2026-03-12 13:00:00 Device connected: 8 packets received by filter,
+2026-03-12 13:00:00 Device disconnected: 5 packets received by filter,
+
+Average latency:
+8.8.8.8 39.1636 ms
+1.1.1.1 45.7727 ms
+
+
+ENVIRONMENT
+Temperature: C
+Feels like: C
+Humidity: %
+Condition: 
+
+--------------------------------------------------
+Time: 2026-03-12 13:10
+
+SYSTEM
+CPU: 6.6%
+CPU Temp: +72.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 16 hours, 32 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+192.168.1.4 00:2a:2a:7e:49:d8 (Unknown)  
+192.168.1.5 00:2a:2a:56:e4:84 (Unknown)  
+192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+
+Events this hour:
+2026-03-12 01:14:02 Internet RESTORED
+2026-03-12 10:19:39 Device connected: 192.168.1.1 0c:01:4b:18:9f:12 (Unknown)
+2026-03-12 10:19:39 Device connected: 192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+2026-03-12 10:19:39 Device connected: 2 packets received by filter,
+2026-03-12 12:39:06 Device connected: 192.168.1.10 d2:a9:7b:50:83:c3 (Unknown: locally administered)
+2026-03-12 12:39:06 Device connected: 192.168.1.4 00:2a:2a:7e:49:d8 (Unknown)
+2026-03-12 12:39:06 Device connected: 192.168.1.5 00:2a:2a:56:e4:84 (Unknown)
+2026-03-12 12:39:06 Device connected: 192.168.1.7 a6:d3:d1:ee:28:02 (Unknown: locally administered)
+2026-03-12 12:39:06 Device connected: 192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+2026-03-12 12:39:06 Device connected: 7 packets received by filter,
+2026-03-12 12:39:06 Device disconnected: 2 packets received by filter,
+2026-03-12 12:43:45 Device connected: 6 packets received by filter,
+2026-03-12 12:43:45 Device disconnected: 192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+2026-03-12 12:43:45 Device disconnected: 7 packets received by filter,
+2026-03-12 12:45:00 Device connected: 192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+2026-03-12 12:45:00 Device disconnected: 192.168.1.10 d2:a9:7b:50:83:c3 (Unknown: locally administered)
+2026-03-12 12:50:00 Device connected: 5 packets received by filter,
+2026-03-12 12:50:00 Device disconnected: 192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+2026-03-12 12:50:00 Device disconnected: 6 packets received by filter,
+2026-03-12 13:00:00 Device connected: 192.168.1.1 0c:01:4b:18:9f:12 (Unknown) (DUP: 2)
+2026-03-12 13:00:00 Device connected: 192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+2026-03-12 13:00:00 Device connected: 192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+2026-03-12 13:00:00 Device connected: 8 packets received by filter,
+2026-03-12 13:00:00 Device disconnected: 5 packets received by filter,
+2026-03-12 13:05:00 Device connected: 5 packets received by filter,
+2026-03-12 13:05:00 Device disconnected: 192.168.1.1 0c:01:4b:18:9f:12 (Unknown) (DUP: 2)
+2026-03-12 13:05:00 Device disconnected: 192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+2026-03-12 13:05:00 Device disconnected: 192.168.1.7 a6:d3:d1:ee:28:02 (Unknown: locally administered)
+2026-03-12 13:05:00 Device disconnected: 8 packets received by filter,
+
+Average latency:
+8.8.8.8 38.7 ms
+1.1.1.1 45.8 ms
+
+
+ENVIRONMENT
+Temperature: 31C
+Feels like: 31C
+Humidity: 59%
+Condition: Partly cloudy
+
