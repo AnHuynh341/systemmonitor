@@ -938,3 +938,81 @@ Feels like: 31C
 Humidity: 59%
 Condition: Partly cloudy
 
+--------------------------------------------------
+Time: 2026-03-12 14:00
+
+SYSTEM
+CPU: 6.6%
+CPU Temp: +74.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 17 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+192.168.1.12 a8:81:7e:8c:9e:09 Apple, Inc. 
+192.168.1.4 00:2a:2a:7e:49:d8 (Unknown)  
+192.168.1.5 00:2a:2a:56:e4:84 (Unknown)  
+
+Events this hour:
+2026-03-12 13:20:01 Device connected: 4 packets received by filter,
+2026-03-12 13:20:01 Device disconnected: 192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+2026-03-12 13:20:01 Device disconnected: 5 packets received by filter,
+2026-03-12 13:30:00 Device connected: 192.168.1.12 a8:81:7e:8c:9e:09 Apple, Inc.
+2026-03-12 13:30:00 Device connected: 192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+2026-03-12 13:30:00 Device connected: 6 packets received by filter,
+2026-03-12 13:30:00 Device disconnected: 4 packets received by filter,
+2026-03-12 13:45:00 Device connected: 5 packets received by filter,
+2026-03-12 13:45:00 Device disconnected: 192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+2026-03-12 13:45:00 Device disconnected: 6 packets received by filter,
+2026-03-12 13:55:00 Device connected: 192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+2026-03-12 13:55:00 Device connected: 6 packets received by filter,
+2026-03-12 13:55:00 Device disconnected: 5 packets received by filter,
+
+Average latency:
+8.8.8.8 38.29 ms
+1.1.1.1 47.35 ms
+
+
+ENVIRONMENT
+Temperature: 32C
+Feels like: 31C
+Humidity: 56%
+Condition: Partly cloudy
+
+--------------------------------------------------
+Time: 2026-03-12 14:08
+
+SYSTEM
+CPU: 11.3%
+CPU Temp: +61.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 17 hours, 30 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+192.168.1.5 00:2a:2a:56:e4:84 (Unknown)  
+192.168.1.4 00:2a:2a:7e:49:d8 (Unknown)  
+
+Events this hour:
+
+Average latency:
+8.8.8.8 38.7 ms
+1.1.1.1 47.1 ms
+
+
+ENVIRONMENT
+Temperature: 32C
+Feels like: 31C
+Humidity: 56%
+Condition: Partly cloudy
+
