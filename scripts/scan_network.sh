@@ -62,7 +62,7 @@ sudo arp-scan --localnet 2>/dev/null \
     if($3 ~ /^\(Unknown/) print $1
     else print $1, substr($0,index($0,$3))
 }' \
-| sort > "$TMP_SCAN"
+| sort -V > "$TMP_SCAN"
 
 [ -f "$DEVICES_LAST" ] || cp "$TMP_SCAN" "$DEVICES_LAST"
 [ -f "$KNOWN_DEVICES" ] || touch "$KNOWN_DEVICES"
