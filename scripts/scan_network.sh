@@ -1,9 +1,17 @@
 #!/bin/bash
 
-EVENT_FILE="state/net_event.log"
-DEVICES_LAST="state/devices_last"
-INTERNET_STATE="state/net_state"
-PING_HISTORY="state/ping.log"
+BASE_DIR="$HOME/sys-mon"
+STATE_DIR="$BASE_DIR/state"
+
+EVENT_FILE="$STATE_DIR/net_event.log"
+DEVICES_LAST="$STATE_DIR/devices_last"
+INTERNET_STATE="$STATE_DIR/net_state"
+PING_HISTORY="$STATE_DIR/ping.log" 
+
+# EVENT_FILE="state/net_event.log"
+# DEVICES_LAST="state/devices_last"
+# INTERNET_STATE="state/net_state"
+# PING_HISTORY="state/ping.log"
 
 NOW=$(date "+%Y-%m-%d %H:%M:%S")
 

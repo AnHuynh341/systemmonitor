@@ -744,3 +744,77 @@ Feels like: 28C
 Humidity: 70%
 Condition: Partly cloudy
 
+--------------------------------------------------
+Time: 2026-03-12 11:00
+
+SYSTEM
+CPU: 26.4%
+CPU Temp: +73.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 14 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+192.168.1.12 a8:81:7e:8c:9e:09 Apple, Inc. 
+192.168.1.5 00:2a:2a:56:e4:84 (Unknown)  
+192.168.1.4 00:2a:2a:7e:49:d8 (Unknown)  
+
+Events this hour:
+2026-03-12 01:14:02 Internet RESTORED
+2026-03-12 10:19:39 Device connected: 192.168.1.1 0c:01:4b:18:9f:12 (Unknown)
+2026-03-12 10:19:39 Device connected: 192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+2026-03-12 10:19:39 Device connected: 2 packets received by filter,
+
+Average latency:
+8.8.8.8 42.38 ms
+1.1.1.1 44.46 ms
+
+
+ENVIRONMENT
+Temperature: 30C
+Feels like: 31C
+Humidity: 62%
+Condition: Partly cloudy
+
+--------------------------------------------------
+Time: 2026-03-12 12:00
+
+SYSTEM
+CPU: 7.7%
+CPU Temp: +76.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 15 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.4 00:2a:2a:7e:49:d8 (Unknown)  
+192.168.1.5 00:2a:2a:56:e4:84 (Unknown)  
+192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+
+Events this hour:
+2026-03-12 01:14:02 Internet RESTORED
+2026-03-12 10:19:39 Device connected: 192.168.1.1 0c:01:4b:18:9f:12 (Unknown)
+2026-03-12 10:19:39 Device connected: 192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+2026-03-12 10:19:39 Device connected: 2 packets received by filter,
+
+Average latency:
+8.8.8.8 42.38 ms
+1.1.1.1 44.46 ms
+
+
+ENVIRONMENT
+Temperature: C
+Feels like: C
+Humidity: %
+Condition: 
+
