@@ -413,3 +413,334 @@ Feels like: 30C
 Humidity: 70%
 Condition: Partly cloudy
 
+--------------------------------------------------
+Time: 2026-03-12 02:00
+
+SYSTEM
+CPU: 7.7%
+CPU Temp: +53.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 5 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.5 fc:57:03:79:5e:3e Hisense broadband multimedia
+192.168.1.2 00:2a:2a:56:e4:84 (Unknown)  
+192.168.1.3 00:2a:2a:7e:49:d8 (Unknown)  
+192.168.1.4 a6:d3:d1:ee:28:02 (Unknown: locally administered)
+192.168.1.26 36:0e:fb:58:c2:2b (Unknown: locally administered)
+
+Events this hour:
+
+Average latency:
+8.8.8.8 44.075 ms
+1.1.1.1 43.375 ms
+
+
+ENVIRONMENT
+Temperature: 27C
+Feels like: 30C
+Humidity: 70%
+Condition: Partly cloudy
+
+--------------------------------------------------
+Time: 2026-03-12 03:00
+
+SYSTEM
+CPU: 6.6%
+CPU Temp: +53.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 6 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.5 fc:57:03:79:5e:3e Hisense broadband multimedia
+192.168.1.2 00:2a:2a:56:e4:84 (Unknown)  
+192.168.1.6 5a:48:0a:d3:d8:b5 (Unknown: locally administered)
+192.168.1.3 00:2a:2a:7e:49:d8 (Unknown)  
+
+Events this hour:
+
+Average latency:
+8.8.8.8 44.075 ms
+1.1.1.1 43.375 ms
+
+
+ENVIRONMENT
+Temperature: 27C
+Feels like: 29C
+Humidity: 70%
+Condition: Partly cloudy
+
+--------------------------------------------------
+Time: 2026-03-12 04:00
+
+SYSTEM
+CPU: 16.7%
+CPU Temp: +53.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 7 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.5 fc:57:03:79:5e:3e Hisense broadband multimedia
+192.168.1.4 a6:d3:d1:ee:28:02 (Unknown: locally administered)
+192.168.1.3 00:2a:2a:7e:49:d8 (Unknown)  
+192.168.1.2 00:2a:2a:56:e4:84 (Unknown)  
+
+Events this hour:
+
+Average latency:
+8.8.8.8 44.075 ms
+1.1.1.1 43.375 ms
+
+
+ENVIRONMENT
+Temperature: C
+Feels like: C
+Humidity: %
+Condition: 
+
+--------------------------------------------------
+Time: 2026-03-12 05:00
+
+SYSTEM
+CPU: 5.7%
+CPU Temp: +54.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 8 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+192.168.1.4 00:2a:2a:7e:49:d8 (Unknown)  
+192.168.1.5 00:2a:2a:56:e4:84 (Unknown)  
+192.168.1.10 d2:a9:7b:50:83:c3 (Unknown: locally administered)
+
+Events this hour:
+
+Average latency:
+8.8.8.8 44.075 ms
+1.1.1.1 43.375 ms
+
+
+ENVIRONMENT
+Temperature: C
+Feels like: C
+Humidity: %
+Condition: 
+
+--------------------------------------------------
+Time: 2026-03-12 06:00
+
+SYSTEM
+CPU: 6.7%
+CPU Temp: +50.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 9 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+192.168.1.8 5a:48:0a:d3:d8:b5 (Unknown: locally administered)
+192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+192.168.1.4 00:2a:2a:7e:49:d8 (Unknown)  
+192.168.1.5 00:2a:2a:56:e4:84 (Unknown)  
+192.168.1.10 d2:a9:7b:50:83:c3 (Unknown: locally administered)
+
+Events this hour:
+
+Average latency:
+8.8.8.8 44.075 ms
+1.1.1.1 43.375 ms
+
+
+ENVIRONMENT
+Temperature: C
+Feels like: C
+Humidity: %
+Condition: 
+
+--------------------------------------------------
+Time: 2026-03-12 07:00
+
+SYSTEM
+CPU: 22.3%
+CPU Temp: +51.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 10 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+192.168.1.4 00:2a:2a:7e:49:d8 (Unknown)  
+192.168.1.5 00:2a:2a:56:e4:84 (Unknown)  
+
+Events this hour:
+
+Average latency:
+8.8.8.8 44.075 ms
+1.1.1.1 43.375 ms
+
+
+ENVIRONMENT
+Temperature: C
+Feels like: C
+Humidity: %
+Condition: 
+
+--------------------------------------------------
+Time: 2026-03-12 08:00
+
+SYSTEM
+CPU: 25.6%
+CPU Temp: +51.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 11 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+192.168.1.4 00:2a:2a:7e:49:d8 (Unknown)  
+192.168.1.5 00:2a:2a:56:e4:84 (Unknown)  
+192.168.1.7 a6:d3:d1:ee:28:02 (Unknown: locally administered)
+
+Events this hour:
+
+Average latency:
+8.8.8.8 44.075 ms
+1.1.1.1 43.375 ms
+
+
+ENVIRONMENT
+Temperature: C
+Feels like: C
+Humidity: %
+Condition: 
+
+--------------------------------------------------
+Time: 2026-03-12 09:00
+
+SYSTEM
+CPU: 6.7%
+CPU Temp: +52.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 12 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+192.168.1.9 36:0e:fb:58:c2:2b (Unknown: locally administered)
+192.168.1.4 00:2a:2a:7e:49:d8 (Unknown)  
+192.168.1.5 00:2a:2a:56:e4:84 (Unknown)  
+
+Events this hour:
+
+Average latency:
+8.8.8.8 44.075 ms
+1.1.1.1 43.375 ms
+
+
+ENVIRONMENT
+Temperature: C
+Feels like: C
+Humidity: %
+Condition: 
+
+--------------------------------------------------
+Time: 2026-03-12 10:00
+
+SYSTEM
+CPU: 6.6%
+CPU Temp: +59.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 13 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+192.168.1.4 00:2a:2a:7e:49:d8 (Unknown)  
+192.168.1.12 a8:81:7e:8c:9e:09 Apple, Inc. 
+192.168.1.5 00:2a:2a:56:e4:84 (Unknown)  
+
+Events this hour:
+
+Average latency:
+8.8.8.8 44.075 ms
+1.1.1.1 43.375 ms
+
+
+ENVIRONMENT
+Temperature: 28C
+Feels like: 28C
+Humidity: 70%
+Condition: Partly cloudy
+
+--------------------------------------------------
+Time: 2026-03-12 10:06
+
+SYSTEM
+CPU: 5.6%
+CPU Temp: +57.0°C
+RAM: 2.9Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 week, 1 day, 13 hours, 28 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1 0c:01:4b:18:9f:12 (Unknown)  
+192.168.1.6 fc:57:03:79:5e:3e Hisense broadband multimedia
+192.168.1.5 00:2a:2a:56:e4:84 (Unknown)  
+192.168.1.4 00:2a:2a:7e:49:d8 (Unknown)  
+
+Events this hour:
+
+Average latency:
+8.8.8.8 44.075 ms
+1.1.1.1 43.375 ms
+
+
+ENVIRONMENT
+Temperature: 28C
+Feels like: 28C
+Humidity: 70%
+Condition: Partly cloudy
+
