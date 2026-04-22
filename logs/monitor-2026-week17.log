@@ -2442,3 +2442,415 @@ Feels like: 32C
 Humidity: 66%
 Condition: Clear
 
+--------------------------------------------------
+Time: 2026-04-22 01:00
+
+SYSTEM
+CPU: 11%
+CPU Temp: +63.0°C
+RAM: 2.3Gi / 11Gi
+Battery: 96%
+Power: AC
+Uptime: up 7 weeks, 4 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.3
+192.168.1.4
+192.168.1.9
+
+Events last hour:
++ 00:10 192.168.1.5 connected
++ 00:10 192.168.1.8 connected
++ 00:10 192.168.1.10 connected
+- 00:15 192.168.1.10 disconnected
+- 00:20 192.168.1.8 disconnected
++ 00:25 192.168.1.10 connected
++ 00:30 192.168.1.8 connected
+- 00:30 192.168.1.5 disconnected
+- 00:30 192.168.1.10 disconnected
++ 00:40 192.168.1.5 connected
+- 00:40 192.168.1.8 disconnected
++ 00:45 192.168.1.10 connected
+- 00:50 192.168.1.5 disconnected
+- 00:50 192.168.1.10 disconnected
+
+Average latency:
+8.8.8.8 26.4833 ms
+1.1.1.1 39.7 ms
+
+
+ENVIRONMENT
+Temperature: C
+Feels like: C
+Humidity: %
+Condition: 
+
+--------------------------------------------------
+Time: 2026-04-22 02:00
+
+SYSTEM
+CPU: 5.5%
+CPU Temp: +66.0°C
+RAM: 2.3Gi / 11Gi
+Battery: 96%
+Power: AC
+Uptime: up 7 weeks, 5 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.3
+192.168.1.4
+192.168.1.9
+192.168.1.10
+
+Events last hour:
++ 01:00 192.168.1.5 connected
++ 01:05 192.168.1.8 connected
++ 01:10 192.168.1.8 connected
+- 01:15 192.168.1.8 disconnected
+- 01:15 192.168.1.8 disconnected
+- 01:20 192.168.1.5 disconnected
++ 01:30 192.168.1.5 connected
++ 01:30 192.168.1.8 connected
++ 01:35 192.168.1.10 connected
+- 01:35 192.168.1.8 disconnected
+- 01:40 192.168.1.10 disconnected
++ 01:45 192.168.1.8 connected
++ 01:45 192.168.1.10 connected
+- 01:50 192.168.1.10 disconnected
++ 01:55 192.168.1.10 connected
+- 01:55 192.168.1.5 disconnected
+- 01:55 192.168.1.8 disconnected
+
+Average latency:
+8.8.8.8 26.4833 ms
+1.1.1.1 39.6 ms
+
+
+ENVIRONMENT
+Temperature: 28C
+Feels like: 31C
+Humidity: 74%
+Condition: Clear
+
+--------------------------------------------------
+Time: 2026-04-22 03:00
+
+SYSTEM
+CPU: 5.7%
+CPU Temp: +70.0°C
+RAM: 2.3Gi / 11Gi
+Battery: 96%
+Power: AC
+Uptime: up 7 weeks, 6 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.3
+192.168.1.4
+192.168.1.5
+192.168.1.9
+
+Events last hour:
++ 02:00 192.168.1.5 connected
+- 02:00 192.168.1.10 disconnected
+- 02:05 192.168.1.5 disconnected
++ 02:15 192.168.1.5 connected
++ 02:20 192.168.1.8 connected
+- 02:25 192.168.1.8 disconnected
++ 02:30 192.168.1.8 connected
+- 02:30 192.168.1.5 disconnected
++ 02:35 192.168.1.5 connected
+- 02:35 192.168.1.8 disconnected
+- 02:45 192.168.1.5 disconnected
++ 02:55 192.168.1.5 connected
+
+Average latency:
+8.8.8.8 26.3417 ms
+1.1.1.1 39.5 ms
+
+
+ENVIRONMENT
+Temperature: 28C
+Feels like: 32C
+Humidity: 74%
+Condition: Partly cloudy
+
+--------------------------------------------------
+Time: 2026-04-22 04:00
+
+SYSTEM
+CPU: 9.7%
+CPU Temp: +71.0°C
+RAM: 2.3Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 7 weeks, 7 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.3
+192.168.1.4
+192.168.1.5
+192.168.1.8
+192.168.1.9
+
+Events last hour:
++ 03:00 192.168.1.10 connected
+- 03:00 192.168.1.5 disconnected
++ 03:05 192.168.1.5 connected
++ 03:05 192.168.1.8 connected
+- 03:05 192.168.1.10 disconnected
+- 03:10 192.168.1.8 disconnected
++ 03:15 192.168.1.10 connected
+- 03:20 192.168.1.10 disconnected
++ 03:25 192.168.1.10 connected
+- 03:30 192.168.1.10 disconnected
++ 03:35 192.168.1.8 connected
++ 03:35 192.168.1.8 connected
+- 03:35 192.168.1.5 disconnected
++ 03:40 192.168.1.5 connected
++ 03:40 192.168.1.10 connected
+- 03:40 192.168.1.8 disconnected
+- 03:40 192.168.1.8 disconnected
++ 03:45 192.168.1.8 connected
+- 03:50 192.168.1.8 disconnected
+- 03:50 192.168.1.10 disconnected
++ 03:55 192.168.1.8 connected
+
+Average latency:
+8.8.8.8 26.3083 ms
+1.1.1.1 39.5417 ms
+
+
+ENVIRONMENT
+Temperature: 28C
+Feels like: 32C
+Humidity: 74%
+Condition: Partly cloudy
+
+--------------------------------------------------
+Time: 2026-04-22 05:00
+
+SYSTEM
+CPU: 5.6%
+CPU Temp: +74.0°C
+RAM: 2.3Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 7 weeks, 8 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.3
+192.168.1.4
+192.168.1.9
+
+Events last hour:
+- 04:00 192.168.1.8 disconnected
++ 04:05 192.168.1.8 connected
++ 04:05 192.168.1.10 connected
+- 04:10 192.168.1.5 disconnected
+- 04:10 192.168.1.8 disconnected
++ 04:15 192.168.1.5 connected
++ 04:15 192.168.1.8 connected
+- 04:20 192.168.1.5 disconnected
+- 04:20 192.168.1.8 disconnected
++ 04:25 192.168.1.8 connected
+- 04:25 192.168.1.10 disconnected
++ 04:30 192.168.1.5 connected
+- 04:30 192.168.1.8 disconnected
+- 04:40 192.168.1.5 disconnected
++ 04:50 192.168.1.5 connected
++ 04:50 192.168.1.10 connected
+- 04:55 192.168.1.5 disconnected
+- 04:55 192.168.1.10 disconnected
+
+Average latency:
+8.8.8.8 41.975 ms
+1.1.1.1 39.6167 ms
+
+
+ENVIRONMENT
+Temperature: 28C
+Feels like: 32C
+Humidity: 74%
+Condition: Partly cloudy
+
+--------------------------------------------------
+Time: 2026-04-22 06:00
+
+SYSTEM
+CPU: 24.7%
+CPU Temp: +74.0°C
+RAM: 2.3Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 7 weeks, 9 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.3
+192.168.1.4
+192.168.1.5
+192.168.1.9
+192.168.1.10
+
+Events last hour:
++ 05:00 192.168.1.5 connected
++ 05:20 192.168.1.10 connected
+- 05:20 192.168.1.5 disconnected
++ 05:25 192.168.1.5 connected
++ 05:35 192.168.1.8 connected
+- 05:40 192.168.1.5 disconnected
+- 05:40 192.168.1.8 disconnected
++ 05:50 192.168.1.5 connected
++ 05:50 192.168.1.8 connected
+- 05:55 192.168.1.8 disconnected
+
+Average latency:
+8.8.8.8 41.7833 ms
+1.1.1.1 39.9333 ms
+
+
+ENVIRONMENT
+Temperature: C
+Feels like: C
+Humidity: %
+Condition: 
+
+--------------------------------------------------
+Time: 2026-04-22 07:00
+
+SYSTEM
+CPU: 38.1%
+CPU Temp: +75.0°C
+RAM: 2.3Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 7 weeks, 10 hours, 21 minutes
+
+NETWORK
+
+Connected devices:
+
+Events last hour:
++ 06:00 192.168.1.8 connected
+- 06:05 192.168.1.5 disconnected
+- 06:05 192.168.1.8 disconnected
++ 06:10 192.168.1.5 connected
+- 06:15 192.168.1.10 disconnected
+- 06:20 192.168.1.5 disconnected
++ 06:25 192.168.1.5 connected
++ 06:30 192.168.1.8 connected
+- 06:30 192.168.1.9 disconnecte--------------------------------------------------
+Time: 2026-04-22 23:00
+
+SYSTEM
+CPU: 7.5%
+CPU Temp: +74.0°C
+RAM: 1.5Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 53 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.3
+192.168.1.4
+192.168.1.5
+192.168.1.9
+
+Events last hour:
++ 22:10 192.168.1.1 connected
++ 22:10 192.168.1.2 connected
++ 22:10 192.168.1.3 connected
++ 22:10 192.168.1.4 connected
++ 22:10 192.168.1.5 connected
++ 22:10 192.168.1.10 connected
++ 22:15 192.168.1.1 connected
++ 22:15 192.168.1.9 connected
++ 22:15 192.168.1.10 connected
+- 22:15 192.168.1.10 disconnected
+- 22:20 192.168.1.1 disconnected
+- 22:20 192.168.1.5 disconnected
+- 22:20 192.168.1.10 disconnected
++ 22:25 192.168.1.5 connected
+- 22:40 192.168.1.9 disconnected
++ 22:45 192.168.1.9 connected
+
+Average latency:
+8.8.8.8 41.5818 ms
+1.1.1.1 29.2273 ms
+
+
+ENVIRONMENT
+Temperature: 29C
+Feels like: 31C
+Humidity: 70%
+Condition: Clear
+
+--------------------------------------------------
+Time: 2026-04-23 00:00
+
+SYSTEM
+CPU: 5.7%
+CPU Temp: +71.0°C
+RAM: 1.6Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 1 hour, 53 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.3
+192.168.1.4
+192.168.1.5
+192.168.1.9
+
+Events last hour:
+- 23:05 192.168.1.9 disconnected
++ 23:15 192.168.1.8 connected
++ 23:20 192.168.1.10 connected
+- 23:20 192.168.1.8 disconnected
++ 23:25 192.168.1.9 connected
+- 23:25 192.168.1.10 disconnected
++ 23:40 192.168.1.8 connected
+- 23:55 192.168.1.8 disconnected
+
+Average latency:
+8.8.8.8 41.6667 ms
+1.1.1.1 41.9083 ms
+
+
+ENVIRONMENT
+Temperature: C
+Feels like: C
+Humidity: %
+Condition: 
+
