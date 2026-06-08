@@ -41,3 +41,1093 @@ Feels like: 34C
 Humidity: 84%
 Condition: Clear
 
+--------------------------------------------------
+Time: 2026-06-08 01:00
+
+SYSTEM
+CPU: 47.8%
+CPU Temp: +79.0°C
+RAM: 5.2Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 5 weeks, 1 day, 2 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.6
+192.168.1.8
+
+Events last hour:
++ 00:05 192.168.1.9 connected
+- 00:20 192.168.1.9 disconnected
++ 00:25 192.168.1.9 connected
+- 00:30 192.168.1.8 disconnected
++ 00:35 192.168.1.8 connected
+- 00:35 192.168.1.9 disconnected
++ 00:40 192.168.1.9 connected
++ 00:40 192.168.1.9 connected
+- 00:40 192.168.1.7 disconnected
+- 00:45 192.168.1.9 disconnected
+- 00:45 192.168.1.9 disconnected
+- 00:50 192.168.1.8 disconnected
++ 00:55 192.168.1.8 connected
+
+Average latency:
+8.8.8.8 39.9583 ms
+1.1.1.1 60.4667 ms
+
+
+ENVIRONMENT
+Temperature: 29C
+Feels like: 35C
+Humidity: 84%
+Condition: Clear
+
+--------------------------------------------------
+Time: 2026-06-08 02:00
+
+SYSTEM
+CPU: 8.5%
+CPU Temp: +71.0°C
+RAM: 5.3Gi / 11Gi
+Battery: 98%
+Power: AC
+Uptime: up 5 weeks, 1 day, 3 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.6
+192.168.1.7
+192.168.1.8
+
+Events last hour:
++ 01:00 192.168.1.7 connected
+- 01:15 192.168.1.7 disconnected
+- 01:15 192.168.1.8 disconnected
++ 01:20 192.168.1.7 connected
++ 01:20 192.168.1.8 connected
++ 01:20 192.168.1.9 connected
+- 01:35 192.168.1.9 disconnected
++ 01:50 192.168.1.9 connected
+- 01:55 192.168.1.9 disconnected
+
+Average latency:
+8.8.8.8 39.4583 ms
+1.1.1.1 60.475 ms
+
+
+ENVIRONMENT
+Temperature: 29C
+Feels like: 35C
+Humidity: 84%
+Condition: Clear
+
+--------------------------------------------------
+Time: 2026-06-08 03:00
+
+SYSTEM
+CPU: 46.2%
+CPU Temp: +80.0°C
+RAM: 5.0Gi / 11Gi
+Battery: 94%
+Power: AC
+Uptime: up 5 weeks, 1 day, 4 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.6
+192.168.1.7
+192.168.1.8
+
+Events last hour:
++ 02:20 192.168.1.9 connected
+- 02:30 192.168.1.9 disconnected
+
+Average latency:
+8.8.8.8 40.05 ms
+1.1.1.1 60.425 ms
+
+
+ENVIRONMENT
+Temperature: 28C
+Feels like: 33C
+Humidity: 89%
+Condition: Clear
+
+--------------------------------------------------
+Time: 2026-06-08 04:00
+
+SYSTEM
+CPU: 13%
+CPU Temp: +78.0°C
+RAM: 5.9Gi / 11Gi
+Battery: 98%
+Power: AC
+Uptime: up 5 weeks, 1 day, 5 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.6
+192.168.1.7
+192.168.1.8
+192.168.1.9
+
+Events last hour:
++ 03:00 192.168.1.9 connected
++ 03:05 192.168.1.8 connected
+- 03:10 192.168.1.8 disconnected
+- 03:10 192.168.1.9 disconnected
++ 03:30 192.168.1.9 connected
+- 03:35 192.168.1.9 disconnected
++ 03:40 192.168.1.9 connected
+- 03:45 192.168.1.8 disconnected
++ 03:50 192.168.1.8 connected
+- 03:50 192.168.1.9 disconnected
++ 03:55 192.168.1.9 connected
+
+Average latency:
+8.8.8.8 39.5917 ms
+1.1.1.1 60.425 ms
+
+
+ENVIRONMENT
+Temperature: 28C
+Feels like: 33C
+Humidity: 89%
+Condition: Patchy rain nearby
+
+--------------------------------------------------
+Time: 2026-06-08 05:00
+
+SYSTEM
+CPU: 27.1%
+CPU Temp: +80.0°C
+RAM: 5.2Gi / 11Gi
+Battery: 97%
+Power: AC
+Uptime: up 5 weeks, 1 day, 6 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.6
+
+Events last hour:
+- 04:00 192.168.1.8 disconnected
+- 04:00 192.168.1.9 disconnected
++ 04:05 192.168.1.8 connected
+- 04:15 192.168.1.8 disconnected
++ 04:20 192.168.1.8 connected
++ 04:25 192.168.1.9 connected
+- 04:30 192.168.1.7 disconnected
+- 04:30 192.168.1.9 disconnected
++ 04:35 192.168.1.7 connected
++ 04:35 192.168.1.9 connected
+- 04:40 192.168.1.7 disconnected
++ 04:50 192.168.1.7 connected
+- 04:50 192.168.1.9 disconnected
+- 04:55 192.168.1.7 disconnected
+- 04:55 192.168.1.8 disconnected
+
+Average latency:
+8.8.8.8 39.9167 ms
+1.1.1.1 60.3833 ms
+
+
+ENVIRONMENT
+Temperature: 28C
+Feels like: 33C
+Humidity: 89%
+Condition: Patchy rain nearby
+
+--------------------------------------------------
+Time: 2026-06-08 06:00
+
+SYSTEM
+CPU: 8.1%
+CPU Temp: +74.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 97%
+Power: AC
+Uptime: up 5 weeks, 1 day, 7 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.6
+192.168.1.8
+
+Events last hour:
++ 05:00 192.168.1.8 connected
++ 05:00 192.168.1.9 connected
+- 05:05 192.168.1.9 disconnected
++ 05:10 192.168.1.7 connected
+- 05:15 192.168.1.7 disconnected
++ 05:20 192.168.1.7 connected
++ 05:20 192.168.1.8 connected
+- 05:25 192.168.1.7 disconnected
++ 05:30 192.168.1.7 connected
++ 05:30 192.168.1.9 connected
+- 05:30 192.168.1.8 disconnected
+- 05:35 192.168.1.7 disconnected
++ 05:40 192.168.1.7 connected
+- 05:40 192.168.1.9 disconnected
+- 05:45 192.168.1.7 disconnected
++ 05:50 192.168.1.7 connected
+- 05:55 192.168.1.7 disconnected
+
+Average latency:
+8.8.8.8 40.5917 ms
+1.1.1.1 60.6417 ms
+
+
+ENVIRONMENT
+Temperature: 28C
+Feels like: 33C
+Humidity: 89%
+Condition: Patchy rain nearby
+
+--------------------------------------------------
+Time: 2026-06-08 07:00
+
+SYSTEM
+CPU: 24.7%
+CPU Temp: +74.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 97%
+Power: AC
+Uptime: up 5 weeks, 1 day, 8 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.6
+192.168.1.8
+
+Events last hour:
++ 06:00 192.168.1.9 connected
++ 06:05 192.168.1.7 connected
+- 06:05 192.168.1.9 disconnected
+- 06:10 192.168.1.7 disconnected
++ 06:15 192.168.1.9 connected
+- 06:20 192.168.1.9 disconnected
++ 06:25 192.168.1.8 connected
++ 06:30 192.168.1.9 connected
+- 06:30 192.168.1.8 disconnected
+- 06:30 192.168.1.8 disconnected
++ 06:35 192.168.1.8 connected
+- 06:40 192.168.1.8 disconnected
+- 06:40 192.168.1.9 disconnected
++ 06:45 192.168.1.7 connected
++ 06:45 192.168.1.8 connected
+- 06:50 192.168.1.7 disconnected
+
+Average latency:
+8.8.8.8 40.3083 ms
+1.1.1.1 60.6417 ms
+
+
+ENVIRONMENT
+Temperature: 28C
+Feels like: 33C
+Humidity: 89%
+Condition: Partly Cloudy
+
+--------------------------------------------------
+Time: 2026-06-08 08:00
+
+SYSTEM
+CPU: 8.6%
+CPU Temp: +66.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 97%
+Power: AC
+Uptime: up 5 weeks, 1 day, 9 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.8
+
+Events last hour:
++ 07:00 192.168.1.9 connected
+- 07:00 192.168.1.8 disconnected
++ 07:05 192.168.1.8 connected
+- 07:05 192.168.1.9 disconnected
+- 07:10 192.168.1.8 disconnected
++ 07:15 192.168.1.8 connected
++ 07:15 192.168.1.9 connected
+- 07:15 192.168.1.6 disconnected
+- 07:20 192.168.1.9 disconnected
++ 07:40 192.168.1.9 connected
+- 07:45 192.168.1.9 disconnected
++ 07:50 192.168.1.5 connected
++ 07:50 192.168.1.6 connected
+- 07:55 192.168.1.5 disconnected
+- 07:55 192.168.1.6 disconnected
+
+Average latency:
+8.8.8.8 40.6333 ms
+1.1.1.1 60.5 ms
+
+
+ENVIRONMENT
+Temperature: 28C
+Feels like: 33C
+Humidity: 89%
+Condition: Partly Cloudy
+
+--------------------------------------------------
+Time: 2026-06-08 09:00
+
+SYSTEM
+CPU: 25%
+CPU Temp: +72.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 97%
+Power: AC
+Uptime: up 5 weeks, 1 day, 10 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.8
+
+Events last hour:
++ 08:00 192.168.1.9 connected
+- 08:05 192.168.1.9 disconnected
++ 08:10 192.168.1.9 connected
+- 08:15 192.168.1.9 disconnected
++ 08:20 192.168.1.9 connected
+- 08:30 192.168.1.9 disconnected
+
+Average latency:
+8.8.8.8 40.4583 ms
+1.1.1.1 60.5167 ms
+
+
+ENVIRONMENT
+Temperature: 28C
+Feels like: 33C
+Humidity: 78%
+Condition: Partly Cloudy
+
+--------------------------------------------------
+Time: 2026-06-08 10:00
+
+SYSTEM
+CPU: 7.5%
+CPU Temp: +73.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 97%
+Power: AC
+Uptime: up 5 weeks, 1 day, 11 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.8
+
+Events last hour:
++ 09:10 192.168.1.9 connected
++ 09:20 192.168.1.8 connected
+- 09:25 192.168.1.8 disconnected
+- 09:25 192.168.1.9 disconnected
++ 09:40 192.168.1.9 connected
+- 09:45 192.168.1.8 disconnected
+- 09:45 192.168.1.9 disconnected
++ 09:50 192.168.1.8 connected
++ 09:50 192.168.1.9 connected
+- 09:55 192.168.1.9 disconnected
+
+Average latency:
+8.8.8.8 40.2583 ms
+1.1.1.1 60.5833 ms
+
+
+ENVIRONMENT
+Temperature: 31C
+Feels like: 35C
+Humidity: 75%
+Condition: Partly cloudy
+
+--------------------------------------------------
+Time: 2026-06-08 11:00
+
+SYSTEM
+CPU: 14.5%
+CPU Temp: +65.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 97%
+Power: AC
+Uptime: up 5 weeks, 1 day, 12 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.5
+192.168.1.6
+192.168.1.8
+192.168.1.9
+
+Events last hour:
++ 10:00 192.168.1.9 connected
+- 10:05 192.168.1.9 disconnected
+- 10:20 192.168.1.2 disconnected
+- 10:20 192.168.1.4 disconnected
++ 10:30 192.168.1.9 connected
+- 10:45 192.168.1.8 disconnected
+- 10:45 192.168.1.9 disconnected
++ 10:50 192.168.1.8 connected
++ 10:50 192.168.1.9 connected
++ 10:55 192.168.1.6 connected
+
+Average latency:
+8.8.8.8 40.2417 ms
+1.1.1.1 60.6364 ms
+
+
+ENVIRONMENT
+Temperature: 31C
+Feels like: 35C
+Humidity: 75%
+Condition: Partly cloudy
+
+--------------------------------------------------
+Time: 2026-06-08 12:00
+
+SYSTEM
+CPU: 8.1%
+CPU Temp: +69.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 5 weeks, 1 day, 13 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.6
+
+Events last hour:
+- 11:00 192.168.1.8 disconnected
+- 11:00 192.168.1.9 disconnected
++ 11:05 192.168.1.2 connected
++ 11:05 192.168.1.4 connected
++ 11:05 192.168.1.8 connected
+- 11:10 192.168.1.8 disconnected
++ 11:15 192.168.1.8 connected
++ 11:15 192.168.1.9 connected
+- 11:20 192.168.1.9 disconnected
++ 11:25 192.168.1.9 connected
+- 11:30 192.168.1.9 disconnected
+- 11:55 192.168.1.8 disconnected
+
+Average latency:
+8.8.8.8 39.3917 ms
+1.1.1.1 61.0083 ms
+
+
+ENVIRONMENT
+Temperature: 33C
+Feels like: 37C
+Humidity: 71%
+Condition: Partly cloudy
+
+--------------------------------------------------
+Time: 2026-06-08 13:00
+
+SYSTEM
+CPU: 29.5%
+CPU Temp: +68.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 5 weeks, 1 day, 14 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.8
+192.168.1.9
+192.168.1.11
+
+Events last hour:
++ 12:00 192.168.1.8 connected
++ 12:00 192.168.1.9 connected
+- 12:00 192.168.1.6 disconnected
+- 12:05 192.168.1.9 disconnected
++ 12:15 192.168.1.9 connected
+- 12:20 192.168.1.9 disconnected
++ 12:35 192.168.1.11 connected
+- 12:40 192.168.1.11 disconnected
++ 12:45 192.168.1.11 connected
++ 12:55 192.168.1.9 connected
++ 12:55 192.168.1.11 connected
+- 12:55 192.168.1.11 disconnected
+
+Average latency:
+8.8.8.8 39.7 ms
+1.1.1.1 61.0167 ms
+
+
+ENVIRONMENT
+Temperature: 33C
+Feels like: 36C
+Humidity: 71%
+Condition: Partly cloudy
+
+--------------------------------------------------
+Time: 2026-06-08 14:00
+
+SYSTEM
+CPU: 8.6%
+CPU Temp: +65.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 5 weeks, 1 day, 15 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.8
+192.168.1.9
+
+Events last hour:
+- 13:00 192.168.1.11 disconnected
++ 13:05 192.168.1.11 connected
+- 13:05 192.168.1.9 disconnected
+- 13:10 192.168.1.11 disconnected
++ 13:15 192.168.1.11 connected
++ 13:20 192.168.1.9 connected
++ 13:20 192.168.1.11 connected
+- 13:20 192.168.1.11 disconnected
+- 13:25 192.168.1.9 disconnected
+- 13:25 192.168.1.11 disconnected
++ 13:35 192.168.1.11 connected
+- 13:40 192.168.1.11 disconnected
++ 13:50 192.168.1.11 connected
+- 13:50 192.168.1.8 disconnected
++ 13:55 192.168.1.8 connected
++ 13:55 192.168.1.9 connected
+- 13:55 192.168.1.11 disconnected
+
+Average latency:
+8.8.8.8 39.8917 ms
+1.1.1.1 60.85 ms
+
+
+ENVIRONMENT
+Temperature: 33C
+Feels like: 36C
+Humidity: 71%
+Condition: Partly cloudy
+
+--------------------------------------------------
+Time: 2026-06-08 15:00
+
+SYSTEM
+CPU: 9.2%
+CPU Temp: +68.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 5 weeks, 1 day, 16 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.8
+
+Events last hour:
++ 14:00 192.168.1.11 connected
++ 14:05 192.168.1.11 connected
+- 14:05 192.168.1.9 disconnected
+- 14:05 192.168.1.11 disconnected
++ 14:10 192.168.1.9 connected
+- 14:10 192.168.1.11 disconnected
++ 14:15 192.168.1.11 connected
+- 14:15 192.168.1.9 disconnected
++ 14:20 192.168.1.6 connected
++ 14:30 192.168.1.9 connected
+- 14:30 192.168.1.6 disconnected
+- 14:30 192.168.1.11 disconnected
++ 14:35 192.168.1.11 connected
+- 14:35 192.168.1.4 disconnected
+- 14:35 192.168.1.9 disconnected
++ 14:40 192.168.1.4 connected
++ 14:40 192.168.1.11 connected
+- 14:40 192.168.1.8 disconnected
+- 14:40 192.168.1.11 disconnected
++ 14:55 192.168.1.8 connected
+- 14:55 192.168.1.11 disconnected
+
+Average latency:
+8.8.8.8 39.5667 ms
+1.1.1.1 60.6917 ms
+
+
+ENVIRONMENT
+Temperature: 33C
+Feels like: 38C
+Humidity: 75%
+Condition: Light Rain Shower, Thunderstorm In Vicinity, Rain Shower
+
+--------------------------------------------------
+Time: 2026-06-08 16:00
+
+SYSTEM
+CPU: 14.8%
+CPU Temp: +75.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 5 weeks, 1 day, 17 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.8
+
+Events last hour:
++ 15:00 192.168.1.8 connected
+- 15:10 192.168.1.8 disconnected
+- 15:15 192.168.1.4 disconnected
++ 15:20 192.168.1.4 connected
++ 15:25 192.168.1.9 connected
+- 15:30 192.168.1.8 disconnected
+- 15:30 192.168.1.9 disconnected
++ 15:35 192.168.1.8 connected
++ 15:40 192.168.1.9 connected
+- 15:40 192.168.1.8 disconnected
++ 15:45 192.168.1.8 connected
+- 15:55 192.168.1.9 disconnected
+
+Average latency:
+8.8.8.8 39.6417 ms
+1.1.1.1 60.7917 ms
+
+
+ENVIRONMENT
+Temperature: 29C
+Feels like: 31C
+Humidity: 89%
+Condition: Light Rain
+
+--------------------------------------------------
+Time: 2026-06-08 17:00
+
+SYSTEM
+CPU: 7.5%
+CPU Temp: +74.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 5 weeks, 1 day, 18 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.8
+
+Events last hour:
++ 16:00 192.168.1.9 connected
+- 16:10 192.168.1.9 disconnected
++ 16:20 192.168.1.9 connected
+- 16:25 192.168.1.9 disconnected
+- 16:40 192.168.1.4 disconnected
++ 16:45 192.168.1.4 connected
+
+Average latency:
+8.8.8.8 39.475 ms
+1.1.1.1 60.7333 ms
+
+
+ENVIRONMENT
+Temperature: 29C
+Feels like: 31C
+Humidity: 89%
+Condition: Light Rain
+
+--------------------------------------------------
+Time: 2026-06-08 18:00
+
+SYSTEM
+CPU: 8.5%
+CPU Temp: +75.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 5 weeks, 1 day, 19 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.7
+
+Events last hour:
++ 17:00 192.168.1.9 connected
+- 17:05 192.168.1.9 disconnected
++ 17:10 192.168.1.9 connected
+- 17:10 192.168.1.8 disconnected
++ 17:15 192.168.1.8 connected
+- 17:20 192.168.1.9 disconnected
++ 17:30 192.168.1.7 connected
++ 17:35 192.168.1.9 connected
+- 17:40 192.168.1.9 disconnected
++ 17:45 192.168.1.9 connected
+- 17:50 192.168.1.9 disconnected
+- 17:55 192.168.1.8 disconnected
+
+Average latency:
+8.8.8.8 39.35 ms
+1.1.1.1 60.7417 ms
+
+
+ENVIRONMENT
+Temperature: 30C
+Feels like: 32C
+Humidity: 84%
+Condition: Patchy rain nearby
+
+--------------------------------------------------
+Time: 2026-06-08 19:00
+
+SYSTEM
+CPU: 27.8%
+CPU Temp: +69.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 5 weeks, 1 day, 20 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.7
+192.168.1.8
+192.168.1.9
+192.168.1.9
+
+Events last hour:
++ 18:00 192.168.1.8 connected
++ 18:05 192.168.1.13 connected
+- 18:10 192.168.1.13 disconnected
++ 18:25 192.168.1.9 connected
+- 18:30 192.168.1.7 disconnected
+- 18:30 192.168.1.9 disconnected
++ 18:35 192.168.1.7 connected
++ 18:45 192.168.1.9 connected
+- 18:45 192.168.1.7 disconnected
++ 18:50 192.168.1.7 connected
+- 18:50 192.168.1.9 disconnected
++ 18:55 192.168.1.9 connected
++ 18:55 192.168.1.9 connected
+
+Average latency:
+8.8.8.8 39.6083 ms
+1.1.1.1 60.775 ms
+
+
+ENVIRONMENT
+Temperature: 30C
+Feels like: 33C
+Humidity: 84%
+Condition: Partly Cloudy
+
+--------------------------------------------------
+Time: 2026-06-08 20:00
+
+SYSTEM
+CPU: 8.1%
+CPU Temp: +68.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 5 weeks, 1 day, 21 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.6
+192.168.1.7
+192.168.1.8
+
+Events last hour:
++ 19:00 192.168.1.6 connected
+- 19:00 192.168.1.8 disconnected
+- 19:00 192.168.1.9 disconnected
++ 19:05 192.168.1.8 connected
+- 19:05 192.168.1.6 disconnected
+- 19:05 192.168.1.9 disconnected
+- 19:15 192.168.1.7 disconnected
++ 19:20 192.168.1.7 connected
++ 19:20 192.168.1.9 connected
+- 19:25 192.168.1.9 disconnected
++ 19:30 192.168.1.6 connected
+- 19:30 192.168.1.4 disconnected
++ 19:35 192.168.1.4 connected
+- 19:40 192.168.1.7 disconnected
++ 19:45 192.168.1.7 connected
++ 19:50 192.168.1.9 connected
+- 19:50 192.168.1.7 disconnected
++ 19:55 192.168.1.7 connected
+- 19:55 192.168.1.9 disconnected
+
+Average latency:
+8.8.8.8 39.7583 ms
+1.1.1.1 52.1833 ms
+
+
+ENVIRONMENT
+Temperature: 30C
+Feels like: 33C
+Humidity: 84%
+Condition: Partly Cloudy
+
+--------------------------------------------------
+Time: 2026-06-08 21:00
+
+SYSTEM
+CPU: 26%
+CPU Temp: +74.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 5 weeks, 1 day, 22 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.6
+192.168.1.7
+192.168.1.8
+
+Events last hour:
++ 20:00 192.168.1.9 connected
+- 20:00 192.168.1.7 disconnected
++ 20:05 192.168.1.7 connected
+- 20:15 192.168.1.9 disconnected
++ 20:50 192.168.1.15 connected
+- 20:55 192.168.1.15 disconnected
+
+Average latency:
+8.8.8.8 39.8417 ms
+1.1.1.1 44 ms
+
+
+ENVIRONMENT
+Temperature: 30C
+Feels like: 34C
+Humidity: 84%
+Condition: Smoky haze
+
+--------------------------------------------------
+Time: 2026-06-08 22:00
+
+SYSTEM
+CPU: 18.9%
+CPU Temp: +73.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 5 weeks, 1 day, 23 hours, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.6
+192.168.1.7
+
+Events last hour:
+- 21:00 192.168.1.8 disconnected
++ 21:10 192.168.1.9 connected
+- 21:20 192.168.1.9 disconnected
++ 21:30 192.168.1.9 connected
+- 21:35 192.168.1.9 disconnected
++ 21:40 192.168.1.9 connected
+- 21:50 192.168.1.9 disconnected
+
+Average latency:
+8.8.8.8 39.8333 ms
+1.1.1.1 44.2667 ms
+
+
+ENVIRONMENT
+Temperature: 29C
+Feels like: 33C
+Humidity: 89%
+Condition: Smoky haze
+
+--------------------------------------------------
+Time: 2026-06-08 23:00
+
+SYSTEM
+CPU: 29.9%
+CPU Temp: +74.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 5 weeks, 2 days, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.6
+192.168.1.7
+
+Events last hour:
++ 22:10 192.168.1.9 connected
+- 22:20 192.168.1.9 disconnected
++ 22:40 192.168.1.9 connected
+- 22:55 192.168.1.9 disconnected
+
+Average latency:
+8.8.8.8 40.1 ms
+1.1.1.1 44.0333 ms
+
+
+ENVIRONMENT
+Temperature: 29C
+Feels like: 33C
+Humidity: 89%
+Condition: Smoky haze
+
+--------------------------------------------------
+Time: 2026-06-09 00:00
+
+SYSTEM
+CPU: 28.4%
+CPU Temp: +77.0°C
+RAM: 2.4Gi / 11Gi
+Battery: 100%
+Power: AC
+Uptime: up 5 weeks, 2 days, 1 hour, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.6
+
+Events last hour:
++ 23:00 192.168.1.9 connected
+- 23:05 192.168.1.6 disconnected
+- 23:05 192.168.1.9 disconnected
++ 23:10 192.168.1.6 connected
++ 23:10 192.168.1.9 connected
+- 23:20 192.168.1.9 disconnected
++ 23:30 192.168.1.9 connected
+- 23:30 192.168.1.7 disconnected
++ 23:35 192.168.1.7 connected
+- 23:40 192.168.1.7 disconnected
+- 23:40 192.168.1.9 disconnected
+
+Average latency:
+8.8.8.8 40.175 ms
+1.1.1.1 44.1333 ms
+
+
+ENVIRONMENT
+Temperature: 29C
+Feels like: 34C
+Humidity: 89%
+Condition: Smoky haze
+
