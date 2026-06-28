@@ -1,0 +1,42 @@
+--------------------------------------------------
+Time: 2026-06-29 00:00
+
+SYSTEM
+CPU: 54.7%
+CPU Temp: +80.0°C
+RAM: 7.2Gi / 11Gi
+Battery: 0%
+98%
+Power: AC
+Uptime: up 8 weeks, 1 day, 1 hour, 59 minutes
+
+NETWORK
+
+Connected devices:
+192.168.1.1
+192.168.1.2
+192.168.1.4
+192.168.1.5
+192.168.1.6
+192.168.1.7
+192.168.1.9
+
+Events last hour:
++ 23:00 192.168.1.4 connected
++ 23:00 192.168.1.16 connected
++ 23:10 192.168.1.7 connected
+- 23:20 192.168.1.7 disconnected
+- 23:45 192.168.1.16 disconnected
++ 23:50 192.168.1.7 connected
+
+Average latency:
+8.8.8.8 37.575 ms
+1.1.1.1 31.5917 ms
+
+
+ENVIRONMENT
+Temperature: 28C
+Feels like: 32C
+Humidity: 84%
+Condition: Smoky haze
+
